@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "352783442306",
+    "firebase_url": "https://quiz-cd9d5.firebaseio.com",
+    "project_id": "quiz-cd9d5",
+    "storage_bucket": "quiz-cd9d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352783442306:android:93abd5db0d77fce6",
+        "android_client_info": {
+          "package_name": "com.example.tobiasz.lotek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352783442306-d8m1701vh1kqq35auldq8flk8dh2ro0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJDbfTzSnfQzIMMtNk6D454aJMmWfVHxU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
